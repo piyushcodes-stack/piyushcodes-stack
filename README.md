@@ -141,31 +141,7 @@ Regular practice of Data Structures and Algorithms to improve problem-solving sk
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushcodes-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushcodes-stack&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
----
-
----
-
-## 🎯 2026 Goals
-
-* [ ] 🚀 Build more full-stack projects
-* [ ] 🧠 Improve DSA & problem solving
-* [ ] 🐍 Become stronger in Python
-* [ ] ⚛️ Master React
-* [ ] 🌐 Build and deploy real-world websites
-* [ ] 📊 Improve SQL & Data Analytics
-* [ ] 💼 Prepare for software development opportunities
-* [ ] ⭐ Become a consistent GitHub contributor
-* [ ] 🏆 Build an impressive GitHub portfolio
-
----
 
 ## ⚡ My Coding Philosophy
 
