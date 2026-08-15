@@ -26,8 +26,6 @@
 
 🛠️ Building real-world projects to improve my development skills
 
-📚 Preparing for **NIMCET**
-
 🎯 Goal: Become a skilled **Software Developer**
 
 ⚡ **Fun fact:** I love turning ideas into working projects!
